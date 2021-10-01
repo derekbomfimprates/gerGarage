@@ -12,3 +12,29 @@ The application will offer the company access to all information in the form of 
 <img width="284" alt="Screenshot 2021-09-29 at 14 37 44" src="https://user-images.githubusercontent.com/75395170/135279994-a43245bd-4049-4639-a664-7d5b739f91f4.png">
 # Invoice 
 <img width="321" alt="Screenshot 2021-09-29 at 14 38 39" src="https://user-images.githubusercontent.com/75395170/135279996-9ddacf4d-7730-4f47-a00a-1ac4cdfaf8e4.png">
+
+# Getting started
+
+1. Prerequisites
+
+ - npm
+
+npm install 
+
+2. Installation
+
+ - Clone the repo
+
+git clone https://github.com/derekbomfimprates/SQLiteProject.git
+
+3. Install NPM packages
+
+npm install
+
+4. Run the application
+
+npm run start
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/derekbomfimprates)](https://github.com/derekbomfimprates) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/derekprates/)]( https://www.linkedin.com/in/derekprates/) [![Research_Gate Badge](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Derek-Prates)]( https://www.researchgate.net/profile/Derek-Prates) 
